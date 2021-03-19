@@ -156,7 +156,7 @@ public class Main
 
     public static void main(String[] args)
     {
-        int[][] buildings = {{2,9,10}, {3,6,15}, {5,12,12}, {13,16,10}, {13,16,10}, {15,17,5}};
+        int[][] buildings = {{1,9,10}, {2,6,15}, {3,12,11}, {9,16,10}, {13,16,9}, {14,17,5}};
 
         Main sskyline = new Main();
 
